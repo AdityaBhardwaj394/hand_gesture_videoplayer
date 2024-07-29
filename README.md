@@ -1,4 +1,4 @@
-
+Finished the projects with updated codes
 
 https://github.com/AdityaBhardwaj394/hand_gesture_videoplayer/assets/103112612/8f01d513-0047-4dea-8b01-8a7006b4fa07
 
